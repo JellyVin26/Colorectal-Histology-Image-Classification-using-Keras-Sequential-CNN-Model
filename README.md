@@ -1,5 +1,5 @@
-Colorectal Histology Classification with CNN
-A convolutional neural network (CNN) built with TensorFlow to classify colorectal tissue images into 8 histological categories. The project covers the full ML pipeline: data loading, preprocessing, model architecture, training with callbacks, fine-tuning, and evaluation.
+# Colorectal Histology Classification with CNN 
+### A convolutional neural network (CNN) built with TensorFlow to classify colorectal tissue images into 8 histological categories. The project covers the full ML pipeline: data loading, preprocessing, model architecture, training with callbacks, fine-tuning, and evaluation.
 
 Dataset
 Source: TensorFlow Datasets — colorectal_histology
